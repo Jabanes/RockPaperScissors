@@ -1,0 +1,4 @@
+body{
+    transform: scale(2.5); /* 1.5 means 150% of original size */
+    transform-origin: top left; /* Controls the scaling anchor point */
+}
